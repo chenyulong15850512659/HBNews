@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPU_Projective_Armadillo", "CPU_Projective_Armadillo\CPU_Projective_Armadillo.vcxproj", "{9FA5AF62-30F1-4AC7-9895-58DEF10E35CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA5AF62-30F1-4AC7-9895-58DEF10E35CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9FA5AF62-30F1-4AC7-9895-58DEF10E35CF}.Debug|Win32.Build.0 = Debug|Win32
+		{9FA5AF62-30F1-4AC7-9895-58DEF10E35CF}.Release|Win32.ActiveCfg = Release|Win32
+		{9FA5AF62-30F1-4AC7-9895-58DEF10E35CF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
